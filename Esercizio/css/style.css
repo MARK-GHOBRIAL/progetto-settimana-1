@@ -3,7 +3,6 @@ body{
     width: 500px;
    min-width: 310px;
    margin: auto;
-   border: solid black;
 }
 header{
     background-color: black;
@@ -17,31 +16,44 @@ padding: 2em;
 
 h3{
     text-align: center;
-    margin: 2em 2em;
-    padding-top: 3rem;
-    color: rgb(85, 148, 236);
+    color: #03b0fa;
+    margin: 1em 1em;
+    padding-top: 1rem;
+    font-size: xx-large;
 }
 h2{
     text-align: center;
-    margin: 2em 2em;
-    padding-top: 3rem;
-    color: rgb(85, 148, 236);
+    color: #03b0fa;
+    margin-bottom: 1em;
+    border: #03b0fa;
+    font-size: xx-large;
 }
 .sfondo-colore {
     background-color: #e22d0e;
+    color: antiquewhite;
 }
 button {
     text-align: center;
-    margin: 2em 2em;
-    padding-top: 5em;
+    margin: 3em 12em;
+    padding: 1em;
 }
 p {
     text-align: center;
-    margin-left: 3em;
-    padding-left: 3em;
+    margin: 1em 1em;
+    padding: 1em 1em;
 }
 .border{
-    border-bottom: #050303;
+    text-align: center;
+    border: solid rgb(232, 232, 238);
     margin: 2em;
-    padding: 2em;
+}
+article {
+    margin: 1em;
+    text-align: center;
+}
+footer{
+    background-color: #25a2c3;
+    margin-top: 1em;
+    padding-top: 2em;
+    color: aliceblue;
 }
