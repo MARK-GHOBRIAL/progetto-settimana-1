@@ -1,0 +1,47 @@
+/* Your styles here */
+body{
+    width: 500px;
+   min-width: 310px;
+   margin: auto;
+   border: solid black;
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+
+#sfondo-pic {
+background: url(../images/banner.jpg);
+padding: 2em;
+}
+
+h3{
+    text-align: center;
+    margin: 2em 2em;
+    padding-top: 3rem;
+    color: rgb(85, 148, 236);
+}
+h2{
+    text-align: center;
+    margin: 2em 2em;
+    padding-top: 3rem;
+    color: rgb(85, 148, 236);
+}
+.sfondo-colore {
+    background-color: #e22d0e;
+}
+button {
+    text-align: center;
+    margin: 2em 2em;
+    padding-top: 5em;
+}
+p {
+    text-align: center;
+    margin-left: 3em;
+    padding-left: 3em;
+}
+.border{
+    border-bottom: #050303;
+    margin: 2em;
+    padding: 2em;
+}
